@@ -10,3 +10,4 @@ Este projeto foi criado para o intuito de documentar e exemplos de certas ferram
 - [x] ModelMapper
 - [x] Modularização (Criação de projetos com multi-módulos)
 - [x] API Rest
+- [x] JSOUP (Web scraping)
